@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "controllers"
+		},
+		{
+			"path": "models"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "views"
+		}
+	]
+}
